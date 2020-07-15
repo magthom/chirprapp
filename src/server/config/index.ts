@@ -2,9 +2,9 @@ export default {
     mysql: {
         host: 'localhost',
         port: 3306,
-        user: 'chirprapp',
+        user: 'root',
         database: 'chirpr',
-        password: 'maggie2020'
+        password: 'nupass'
 
     }
 }
